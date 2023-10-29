@@ -1,0 +1,76 @@
+{
+  "questions": [
+    {
+      "question": "hello",
+      "answer": "Can you please tell the issue you face?"
+    },
+    {
+      "question": "I have a fever",
+      "answer": "How long do you had a fever?"
+    },
+    {
+      "question": "for the past two days",
+      "answer": "ok!Please follow the instructions such that I can detect necessary parameters such as weight, temperature, pressure"
+    },
+    {
+      "question": "ok ok",
+      "answer": "Please wait till I connect you to the general doctor"
+    },
+    {
+      "question": "thank you",
+      "answer": "Have a nice day"
+    },
+    {
+      "question": "fever",
+      "answer": "How long do you had a fever?"
+    },
+    {
+      "question": "for 2 days",
+      "answer": "ok!Please follow the instructions such that I can detect necessary parameters such as weight, temperature, pressure"
+    },
+    {
+      "question": "ok",
+      "answer": "Please wait till I connect you to the general doctor"
+    },
+    {
+      "question": "Ni",
+      "answer": "Can you please tell the issue you face?"
+    },
+    {
+      "question": "Right",
+      "answer": "Please wait till I connect you to the general doctor"
+    },
+    {
+      "question": "Thanks",
+      "answer": "have a good day"
+    },
+    {
+      "question": "I am currently in the most difficult fever",
+      "answer": "Please wait till I connect you to the general doctor"
+    },
+    {
+      "question": "hey",
+      "answer": "Can you please tell the issue you face?"
+    },
+    {
+      "question": "ok please",
+      "answer": "Please wait till I connect you to the general doctor"
+    },
+    {
+      "question": "Okay",
+      "answer": "Please wait till I connect you to the general doctor"
+    },
+    {
+      "question": "Influenza",
+      "answer": "How long do you had a fever?"
+    },
+    {
+      "question": "one day",
+      "answer": "ok!Please follow the instructions such that I can detect necessary parameters such as weight, temperature, pressure"
+    },
+    {
+      "question": "OK",
+      "answer": "Please wait till I connect you to the general doctor"
+    }
+  ]
+}

@@ -1,0 +1,7 @@
+json
+difflib  
+speech_recognition 
+googletrans
+gtts
+playsound
+os
